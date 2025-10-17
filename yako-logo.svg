@@ -1,0 +1,12 @@
+<!-- Logo YAKO basé sur l'image fournie -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- Forme supérieure ressemblant à des vagues ou flammes -->
+  <path d="M8 16 C12 12, 18 14, 22 10 C26 14, 32 12, 36 16 C34 20, 30 22, 24 20 C18 22, 14 20, 8 16 Z" fill="#f9b233"/>
+  
+  <!-- Rectangle/bâtiment en bas -->
+  <rect x="16" y="24" width="16" height="16" rx="1" fill="#f9b233"/>
+  
+  <!-- Détails supplémentaires -->
+  <rect x="18" y="28" width="3" height="8" rx="0.5" fill="white" opacity="0.3"/>
+  <rect x="26" y="28" width="3" height="8" rx="0.5" fill="white" opacity="0.3"/>
+</svg>
